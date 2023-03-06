@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TCMBMVCWebApplication.props" />
+</Project>

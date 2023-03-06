@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nZFnYHykKPl4TPPxDESBMjlddZfLyuLFyH9oiTHUfIc=",
+  "Source": "TCMBWebAPI",
+  "BasePath": "_content/TCMBWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
